@@ -39,3 +39,5 @@ void no_of_processing_cores(string N_core){
     show_file_sizes(Input_File_Name, Output_File_Name);
 }
 ```
+
+<img width="907" height="411" alt="Screenshot 2026-09-24 at 12 50 43 AM" src="https://github.com/user-attachments/assets/91b635ab-f9ec-4e98-85af-96f3dba5646b" />
