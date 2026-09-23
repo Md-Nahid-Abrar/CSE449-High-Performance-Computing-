@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="6385365e-1ca7-4d85-bb7b-4c94cdaafc24" src="https://github.com/user-attachments/assets/c4a18538-20ea-417b-b7df-afb9459836ba" />
+<img width="550" height="544" alt="aa" src="https://github.com/user-attachments/assets/b5fea683-1ca5-4e6e-89f2-61bab0642549" />
 
 
 ```cpp
